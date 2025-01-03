@@ -1,6 +1,6 @@
 // config.js
 const CONFIG = {
-  GOOGLE_API_KEY: 'AIzaSyCcIbheCziUdcdIxqr1sDKKsd0K9cC29nw',
+  GOOGLE_API_KEY: 'put your api google maps here',
   BASE_URL: `http://10.17.76.168:5000/api`,
   ENDPOINTS: {
     News: '/posts',
